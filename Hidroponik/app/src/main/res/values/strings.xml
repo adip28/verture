@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hidroponik</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <plurals name="likes_count">
+        <item quantity="one">%d like</item>
+        <item quantity="other">%d likes</item>
+    </plurals>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="user_photos">
+        <item>http://167.205.7.227:10/web_verture/verticalagriculture/img/pagi.jpg</item>
+        <item>http://167.205.7.227:10/web_verture/verticalagriculture/img/siang.jpg</item>
+        <item>http://167.205.7.227:10/web_verture/verticalagriculture/img/sore.jpg</item>
+    </string-array>
+    <string name="user_profile_photo">http://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xpa1/t51.2885-19/929118_455075441302693_1605108410_a.jpg</string>
+    <string name="title_activity_beranda_fragment_controll">BerandaFragmentControll</string>
+</resources>
